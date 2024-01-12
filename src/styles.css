@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.divtest {
+  background-color: red;
+  border: 1px dotted blue;
+}
